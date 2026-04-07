@@ -44,12 +44,23 @@
 
 ```typescript
 const khaled = {
-  role        : "Software Engineer · AI-Native Builder",
-  focus       : ["LLM Pipelines", "RAG Systems", "MCP Tooling", "Full-Stack Architecture"],
-  currentlyAt : "Recurse AI  —  Shipping AI-powered developer tools",
-  education   : "B.Sc. CSE · Shahjalal University of Science & Technology (CGPA 3.68/4.00)",
-  philosophy  : "I don't just build features — I architect systems that make complex workflows feel effortless.",
-  openTo      : ["Full-time SWE roles", "Impactful open-source projects", "AI-first product teams"],
+  role: "Software Engineer · AI-Native Builder",
+  focus: [
+    "LLM Pipelines",
+    "RAG Systems",
+    "MCP Tooling",
+    "Full-Stack Architecture",
+  ],
+  currentlyAt: "Recurse AI  —  Shipping AI-powered developer tools",
+  education:
+    "B.Sc. CSE · Shahjalal University of Science & Technology (CGPA 3.70/4.00)",
+  philosophy:
+    "I don't just build features — I architect systems that make complex workflows feel effortless.",
+  openTo: [
+    "Full-time SWE roles",
+    "Impactful open-source projects",
+    "AI-first product teams",
+  ],
 };
 ```
 
@@ -71,7 +82,8 @@ const khaled = {
 <td width="50%" valign="top">
 
 ### 🧠 AI Data Brain
-> *Voice-native intelligent table platform*
+
+> _Voice-native intelligent table platform_
 
 Architected a multi-modal data management system that replaces traditional forms with **chat, voice, and manual editing modes** — powered by MCP tool integrations and real-time WebSockets.
 
@@ -85,14 +97,16 @@ Architected a multi-modal data management system that replaces traditional forms
 </table>
 
 <!-- Replace the placeholder URLs below with your actual links -->
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0f172a?style=flat-square&logo=github)](https://github.com/mdkhaledbin/ai-data-brain)
-[![Live](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://ai-data-brain.vercel.app)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0f172a?style=flat-square&logo=github)](https://github.com/MehediHasan-75/ai_data_brain)
+[![Live](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://ai-data-brain-frontend.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 WordPress AI Agent
-> *Context-aware developer assistant with RAG*
+
+> _Context-aware developer assistant with RAG_
 
 Engineered a full-stack AI assistant for WordPress developers using **RAG + Vector DB** and MCP integrations — eliminating context-switching between docs, debugger, and codebase.
 
@@ -106,8 +120,8 @@ Engineered a full-stack AI assistant for WordPress developers using **RAG + Vect
 </table>
 
 <!-- Replace the placeholder URLs below with your actual links -->
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0f172a?style=flat-square&logo=github)](https://github.com/mdkhaledbin/wordpress-agent)
-[![Live](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wordpress-agent.vercel.app)
+
+![GitHub](https://img.shields.io/badge/GitHub-Private%20Repository🔒-0f172a?style=flat-square&logo=github)
 
 </td>
 </tr>
@@ -115,7 +129,8 @@ Engineered a full-stack AI assistant for WordPress developers using **RAG + Vect
 <td width="50%" valign="top">
 
 ### 🎵 Clear Vocal
-> *AI-powered vocal isolation web app*
+
+> _AI-powered vocal isolation web app_
 
 Developed a production-grade audio processing platform that separates vocals from instrumentals via AI signal processing APIs — featuring queue-based workflow visualization.
 
@@ -129,14 +144,16 @@ Developed a production-grade audio processing platform that separates vocals fro
 </table>
 
 <!-- Replace the placeholder URLs below with your actual links -->
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0f172a?style=flat-square&logo=github)](https://github.com/mdkhaledbin/clear-vocal)
-[![Live](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://clear-vocal.vercel.app)
+
+![GitHub](https://img.shields.io/badge/GitHub-Private%20Repository🔒-0f172a?style=flat-square&logo=github)
+[![Live](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://clearvocals.ai/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Focus Dictionary
-> *Offline-first Chrome Extension*
+
+> _Offline-first Chrome Extension_
 
 A distraction-free local dictionary extension that caches definitions in IndexedDB for instant lookups with API fallback.
 
@@ -253,7 +270,7 @@ commit [past]     ·  AI Model Trainer @ Remotask  (Jun 2023 – Dec 2023)
 ├── Evaluated LLM code outputs across Python and C++ for correctness and efficiency
 └── Contributed to training data quality for large-scale code generation models
 
-commit [ongoing]  ·  B.Sc. CSE @ SUST  (Expected Apr 2026)  ·  CGPA 3.68 / 4.00
+commit [ongoing]  ·  B.Sc. CSE @ SUST  (Expected Apr 2026)  ·  CGPA 3.70 / 4.00
 └── Shahjalal University of Science & Technology, Bangladesh
 ```
 
@@ -272,17 +289,17 @@ commit [ongoing]  ·  B.Sc. CSE @ SUST  (Expected Apr 2026)  ·  CGPA 3.68 / 4.0
 <td align="center" width="33%">
 🏆<br/>
 <strong>Champion</strong><br/>
-<sub>Reactive Accelerator (Sumit Saha)<br/>9 industrial-grade React/Next.js projects</sub>
+<sub><a href="https://learnwithsumit.com/certificates/verify/LWSCTXN-YKS3LO66">Reactive Accelerator (Sumit Saha)</a><br/>9 industrial-grade React/Next.js projects</sub>
 </td>
 <td align="center" width="33%">
 ⚔️<br/>
 <strong>Competitive Programmer</strong><br/>
-<sub>Codeforces <strong>Pupil</strong><br/>CodeChef <strong>3★ Coder</strong></sub>
+<sub><a href="https://codeforces.com/profile/bonu_malitha">Codeforces</a> <strong>Pupil</strong><br/><a href="https://www.codechef.com/users/nuhupaikumbar">CodeChef</a> <strong>3★ Coder</strong></sub>
 </td>
 <td align="center" width="33%">
 🎓<br/>
 <strong>SUST — CSE</strong><br/>
-<sub>CGPA <strong>3.68 / 4.00</strong><br/>Expected Graduation: Apr 2026</sub>
+<sub>CGPA <strong>3.70 / 4.00</strong><br/>Graduated: Apr 2026</sub>
 </td>
 </tr>
 </table>
@@ -356,7 +373,7 @@ commit [ongoing]  ·  B.Sc. CSE @ SUST  (Expected Apr 2026)  ·  CGPA 3.68 / 4.0
     <img src="https://img.shields.io/badge/Portfolio-mdkhaledbin.me-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;
   <!-- Replace the PDF link below with a direct link to your resume (e.g. Google Drive, portfolio /resume page) -->
-  <a href="https://mdkhaledbin.me/resume">
+  <a href="https://github.com/mdkhaledbin/mdkhaledbin/blob/main/Khaled_Bin_Fullstack_Developer_2026.pdf">
     <img src="https://img.shields.io/badge/Resume-Download_PDF-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>&nbsp;
   <a href="https://wa.me/8801746812561">
